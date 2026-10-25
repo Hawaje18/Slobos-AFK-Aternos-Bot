@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "Chaosik.aternos.me:16904",
     "port": 27586,
     "version": "",
     "try-creative": false
