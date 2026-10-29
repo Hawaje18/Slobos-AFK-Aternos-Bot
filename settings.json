@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chaosik.aternos.me:16904",
-    "port": 27586,
+    "ip": "VaniliaxPvP.aternos.me",
+    "port": 45594,
     "version": "",
     "try-creative": false
   },
